@@ -1,0 +1,16 @@
+div{
+  font-size: 70px;
+  background-color: orange;
+}
+
+
+body{
+  background-color: rgb(192, 163, 110);
+}
+
+@media (min-width:100px) and (max-width: 1040px){
+  div{
+    font-size: 6vw;
+  }
+
+}

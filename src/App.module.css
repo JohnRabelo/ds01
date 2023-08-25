@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.lg{
+  padding-top: 10vh;
+  width: 20vh;
+  height: 6vh;
+}
+
+.socMedia{
+  margin: 2vw;
+  width: 4vh;
+  height: 4vh;
+}
+
+
+
