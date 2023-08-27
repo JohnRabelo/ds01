@@ -11,7 +11,7 @@ function App() {
         <p>This website in under maintenance. Meanwhile, you can still get in contact with us! </p>
         <a href='https://www.instagram.com/dossombrerosbrighton/?hl=en-gb' target='_blank'><img className={appcl.socMedia} src={ig} alt=""/></a>
         <a href='https://www.facebook.com/DosSombrerosMexicanRestaurant?fref=ts' target='_blank'><img className={appcl.socMedia} src={fb} alt=""/></a>
-        <p>For bookings please send an email to: contactdossombreros@gmail.com or call us on 01273 911 881</p>
+        <p>For bookings please send an email to: hola@dossombreros.co.uk or call us on 01273 911 881</p>
       </div>
     </div>
   );
